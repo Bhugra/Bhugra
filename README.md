@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bhugrajai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhugrajai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Bhugra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhugra)
-[![Phone](https://img.shields.io/badge/Contact-+91_8700859644-1D6FD8?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918700859644)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai_Bhugra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-bhugra-b03537326)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bhugra&style=flat-square&color=1D6FD8&label=Profile+Views)
 
 </div>
