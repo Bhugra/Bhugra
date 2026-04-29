@@ -5,7 +5,6 @@
 **Robotics Engineer · Embedded Systems · Computer Vision · OpenGL Simulation**
 
 [![Email](https://img.shields.io/badge/Email-bhugrajai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhugrajai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Bhugra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhugra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai_Bhugra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-bhugra-b03537326)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bhugra&style=flat-square&color=1D6FD8&label=Profile+Views)
 
